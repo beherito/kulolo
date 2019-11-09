@@ -1,2 +1,1 @@
-# kulolo
- kulolo
+随机
